@@ -24,3 +24,7 @@ https://leanprover-community.github.io/
 
 I also used https://live.lean-lang.org/ for a while at the beginning of the formalization
 process before I eventually ended up learning how to set up and use the codespaces.
+
+I was also able to gain a better understanding of graph representation within lean from a 
+research paper that I decided to review for the documentation part of the project:
+https://arxiv.org/pdf/2101.00127
